@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`hhttps://cinemamovies.site/watch-now-2/`
+					`https://cinemamovies.site/watch-now-2/`
 				}`,
 			},
 		};
